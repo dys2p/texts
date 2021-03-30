@@ -35,7 +35,7 @@ Kriminelle kombinieren und rekombinieren Datensätze, indem sie die durchgesicke
 
 Es ist egal, dass niemand auf einen bestimmten Datenpunkt zeigen kann, über den man eines Tages die Kontrolle verlieren könnte und sagen kann: "Das, das ist der Datenpunkt der jemanden sein Haus kosten wird oder durch den sein Stalker ihn findet oder der Dieben seine Altersvorsorge preisgibt."
 
-Ebenso wahr ist, dass niemand auf ein bestimmtes Tröpfchen Dioxin in einem illegalen Abwasserrohr einer Fabrik zeigen und sagen kann: "Das, das ist das Karzinogen, das eine junge Mutter von drei Kindern etwa zahn Kilometer flussabwärts des Rohrs töten wird." Das hält Unternehmen, die das Wasser oder die Luft vergiften, nicht ab.
+Ebenso wahr ist, dass niemand auf ein bestimmtes Tröpfchen Dioxin in einem illegalen Abwasserrohr einer Fabrik zeigen und sagen kann: "Das, das ist das Karzinogen, das eine junge Mutter von drei Kindern etwa zehn Kilometer flussabwärts des Rohrs töten wird." Das hält Unternehmen, die das Wasser oder die Luft vergiften, nicht ab.
 
 Die Schäden durch Verstöße sind nicht deterministisch, sie sind stochastisch (d. h. zufällig bestimmt).
 
@@ -58,7 +58,7 @@ Vielleicht könnte man all das Risiko noch rechtfertigen, wenn die Gewinne aus a
 
 Wenn Sie aber ein Werbe-Unternehmen oder eine Big-Tech-Plattform wie Facebook oder Google sind, erlaubt Ihnen das Mysterium über die Fähigkeit von Daten, Kunden zu konvertieren, Ihr Produkt als eine super Sache zu verkaufen, während es potenzielle Konkurrenten einschüchtert, die denken, dass sie niemals den Einstieg schaffen werden, weil sie niemals so viele Daten sammeln können wie die Unternehmen, die bereits in diesem Bereich tätig sind.
 
-Die Leute, die behaupten, dass Daten das neue Öl sind, sind auch die Leute, die die Daten verkaufen. Bei den Behauptungen darüber, wie diese Daten Ihnen die Möglichkeit bieten, erstaunliche Dinge zu tun, handlet es sich um Verkaufsliteratur und nicht um von Experten begutachtete Untersuchungen.
+Die Leute, die behaupten, dass Daten das neue Öl sind, sind auch die Leute, die die Daten verkaufen. Bei den Behauptungen darüber, wie diese Daten Ihnen die Möglichkeit bieten, erstaunliche Dinge zu tun, handelt es sich um Verkaufsliteratur und nicht um von Experten begutachtete Untersuchungen.
 
 Daten waren nie das neue Öl. Sie waren immer der neue Giftmüll: pluripotent, unsterblich und absolut unmöglich einzudämmen. Sie wollen nicht noch mehr davon herstellen und Sie sollten auf jeden Fall den Vorrat loswerden, den Sie bisher so unklug gehortet haben.
 
